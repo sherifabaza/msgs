@@ -1,0 +1,51 @@
+
+.bbox{
+    text-align: center ; 
+}
+.lb,.sb{
+    width: 50%;
+    padding: 10px;
+    margin: 1%;
+}
+.sb {
+    background-color: #b92c28;
+}
+.navbar-default {
+    background-color: rgba(255, 255, 255, 0.79);
+    border-color: #d0c8e1;
+    border-radius: 0;
+    box-shadow: 1px 1px 5px;
+}
+
+.signup-btn{
+        margin-top: 2%;
+        margin-left: 1%;
+        width: 20%;
+        box-shadow: 1px 1px 5px black;
+}
+
+@media (min-width: 768px) {
+    .signup{
+        margin-top: 6%;
+        margin-left: 2%;
+    }
+.navbar-nav {
+    float: right;
+}
+.info-label{
+    float: right ;
+}
+}
+
+.P-in{
+    width: 100%;
+    margin: 1% ; 
+}
+
+.lf{
+    margin: 1% ;
+    text-align: center;
+}
+.lf>.btn-primary{
+    width: 31%;
+}
