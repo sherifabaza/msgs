@@ -1,1 +1,1 @@
-web:    java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war
+web: java -cp target/classes/com/mycompany/sms:target/dependency/* login.class

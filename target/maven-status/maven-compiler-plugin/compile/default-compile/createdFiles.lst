@@ -1,1 +1,3 @@
 com\mycompany\sms\login.class
+com\mycompany\sms\DBConnect.class
+com\mycompany\sms\RegAccount.class
